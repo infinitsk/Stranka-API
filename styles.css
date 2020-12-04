@@ -1,0 +1,15 @@
+    .h1 {
+        background-color: pink;
+        font-size: 30px;
+        height: 80px;
+        margin-left: 35%;
+        margin-right: 35%;
+    }
+    
+    .obrazky {
+        margin-left: 10px;
+    }
+    
+    p {
+        margin-left: 10px;
+    }
